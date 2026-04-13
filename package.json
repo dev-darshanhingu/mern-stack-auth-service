@@ -1,0 +1,21 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "create auth service for a learning ",
+  "homepage": "https://github.com/dev-darshanhingu/mern-stack-auth-service#readme",
+  "bugs": {
+    "url": "https://github.com/dev-darshanhingu/mern-stack-auth-service/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-darshanhingu/mern-stack-auth-service.git"
+  },
+  "license": "ISC",
+  "author": "darshan hingu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
